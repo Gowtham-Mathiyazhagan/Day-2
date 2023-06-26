@@ -1,0 +1,22 @@
+Day-2-Task:
+
+1.Write a blog on the difference between document & window object?
+
+Document Object:
+
+=>It represents the entire HTML document, including the head, body, and all the elements
+within them.
+=>It provides methods and properties to access, create, modify, and delete elements on the page.
+=>It enables interaction with the document's structure, such as accessing form values, modifying
+styles, and adding event listeners.
+
+Window Object:
+
+=>It represents the global context for JavaScript execution in a browser.
+=>It provides methods and properties to manipulate the browser window, control navigation, and
+handle events.
+=>It includes features such as alerts, prompts, and the ability to open new windows or frames.
+=>It has properties like location, history, and navigator, which provide information about the
+browser environment.
+
+_______________________________________________________________________________________________
